@@ -1,0 +1,9 @@
+{
+  first_name: employee.first_name,
+  last_name: employee.last_name,
+  department_id: employee.department_id,
+  email: employee.email,
+  phone: employee.phone,
+  condiment: employee.condiment,
+  job_title: employee.job_title,
+}
